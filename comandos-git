@@ -6,3 +6,6 @@ git status === Usado para rastrear/ver situacao dos arquivos
 
 git add filename ou . para que execute todos arquivos do directorio
 
+git commit -m "descricao do commit" === Comando usado para adicionar os arquivos ao repositorio local
+
+
