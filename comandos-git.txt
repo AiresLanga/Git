@@ -10,6 +10,6 @@ git commit -m "descricao do commit" === Comando usado para adicionar os arquivos
 
 git log === Comando usado para verificar todos commits realizados.
 
-git remote add origin URL = Comando usado para comunicar o repositorio local com remoto
+git remote add origin URL = Comando usado indicar que a URL que eh o repositorio passa a se chamar de origin
 
 git push branch(origin) repositorio(master) = Comando usado para enviar subir arquivos do repositorio local para remoto
