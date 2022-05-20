@@ -8,4 +8,4 @@ git add filename ou . para que execute todos arquivos do directorio
 
 git commit -m "descricao do commit" === Comando usado para adicionar os arquivos ao repositorio local
 
-
+git log === Comando usado para verificar todos commits realizados.
