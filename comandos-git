@@ -1,0 +1,8 @@
+Comandos GIT
+
+git init ===  Comando usado para inicializar o git na maquina e transformar o directorio actual em repositorio
+
+git status === Usado para rastrear/ver situacao dos arquivos
+
+git add filename ou . para que execute todos arquivos do directorio
+
