@@ -9,3 +9,7 @@ git add filename ou . para que execute todos arquivos do directorio
 git commit -m "descricao do commit" === Comando usado para adicionar os arquivos ao repositorio local
 
 git log === Comando usado para verificar todos commits realizados.
+
+git remote add origin URL = Comando usado para comunicar o repositorio local com remoto
+
+git push branch(origin) repositorio(master) = Comando usado para enviar subir arquivos do repositorio local para remoto
